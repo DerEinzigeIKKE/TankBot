@@ -5,8 +5,11 @@ Bot zur Benachrichtigung bei niedrigen Dieselpreisen
 ## Setup
 
 ### Filelayout
+
 1234567890:AABBCCDDEEFFGGHHIIJJKKLLMMNNOOPPQQQ;bot_token
+
 00000000-0000-0000-0000-000000000000;api_key
+
 123456789;chat_id
 
 ## Functions
